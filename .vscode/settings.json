@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./utility/B2_RecognitionObjectYolo8",
+        "./pages"
+    ]
+}
